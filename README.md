@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+I am a developer interested in arduino, machine learning, android, and python.
+
+Checkout the repositories and pins to see more about what I do!
 
 <!--
 **AshishA26/AshishA26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
