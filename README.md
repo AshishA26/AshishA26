@@ -5,7 +5,7 @@ Languages:
 - HTML, CSS, JavaScript, Kotlin, C, C++, Python, Scratch, Java
 
 Computer skills:
-- Google Apps, Office 365, Maya, Unreal Engine, Adobe (Photoshop, After Effects, Illustrator), MPLAB, Arduino, Processing, TinkerCAD
+- Maya, Unreal Engine, Adobe (Photoshop, After Effects, Illustrator), MPLAB, Arduino, Processing, TinkerCAD
 
 Checkout the repositories and pins to see more about what I do!
 
