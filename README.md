@@ -7,7 +7,7 @@ Languages:
 Computer skills:
 - Maya, Unreal Engine, Adobe (Photoshop, After Effects, Illustrator), MPLAB, Arduino, Processing, TinkerCAD
 
-One of my biggest projects was the StarWars Racer Fan Game 🏁 I made using Unreal Engine and Maya(repository for this project is below):
+One of my biggest projects was the StarWars Racer Fan Game 🏁 I made using Unreal Engine and Maya (repository for this project is below):
 
 ![RacerGif](./Pictures/Final_Gif.gif)
 
