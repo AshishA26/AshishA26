@@ -1,10 +1,10 @@
 ### Hello everyone! 👋
 I am a developer interested in many different things such as Arduino, Python, Android, C, and Unreal Engine.
 
-Languages:
+Languages 📙:
 - HTML, CSS, JavaScript, Kotlin, C, C++, Python, Scratch, Java
 
-Computer skills:
+Computer skills 💻:
 - SolidWorks, Autodesk (Fusion 360, Maya, TinkerCAD), VS Code, Platform IO, Unreal Engine, Adobe (Photoshop, After Effects, Illustrator), MPLAB, Arduino, Processing, Fritzing, KiCad
 
 One of my biggest projects was the StarWars Racer Fan Game 🎮 I made using Unreal Engine and Maya (repository for this project is below):
