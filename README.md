@@ -7,11 +7,21 @@ Languages 📙:
 Computer skills 💻:
 - SolidWorks, Autodesk (Fusion 360, Maya, TinkerCAD), VS Code, Platform IO, Unreal Engine, Adobe (Photoshop, After Effects, Illustrator), MPLAB, Arduino, Processing, Fritzing, KiCad
 
-One of my biggest projects was the StarWars Racer Fan Game 🎮 I made using Unreal Engine and Maya (repository for this project is below):
+Here are some examples of the biggest projects that I have worked on (click on each of them to find out more):
 
-![RacerGif](./Pictures/Final_Gif.gif)
+| Star Wars Racer Fan Game | OmniBot |
+| :---: | :---: |
+| [![RacerGif](./Pictures/Final_Gif.gif)](https://github.com/AshishA26/StarWars-Episode-1-Racer-Fan-Game)  | [![OmniBotGif](./Pictures/ParallelPark.gif)](https://github.com/AshishA26/OmniBot) |
 
-Checkout my repositories and pins to see more about what I do!
+<p align="center">
+    <strong>Lidar Scanner 3D</strong>
+</p>
+
+#  
+[![ScanGif](./Pictures/ScanningGif.gif)](https://github.com/AshishA26/LidarScanner3D)
+
+Checkout my repositories and pins below to see more about what I do!
+
 
 <!--
 **AshishA26/AshishA26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
