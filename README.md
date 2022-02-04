@@ -17,7 +17,6 @@ Here are some examples of the biggest projects that I have worked on (click on e
     <strong>Lidar Scanner 3D</strong>
 </p>
 
-#  
 [![ScanGif](./Pictures/ScanningGif.gif)](https://github.com/AshishA26/LidarScanner3D)
 
 Checkout my repositories and pins below to see more about what I do!
