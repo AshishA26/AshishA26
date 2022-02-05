@@ -1,5 +1,5 @@
 ### Hello everyone! 👋
-I am a developer interested in many different things such as Arduino, Python, Android, C, and Unreal Engine.
+I am a developer interested in many different things related to embedded, game design and development, and 3D modelling.
 
 Languages 📙:
 - HTML, CSS, JavaScript, Kotlin, C, C++, Python, Scratch, Java
