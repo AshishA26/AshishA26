@@ -9,12 +9,12 @@ Computer skills 💻:
 
 Here are some examples of the biggest projects that I have worked on (click on each of them to find out more):
 
-| Star Wars Racer Fan Game | OmniBot |
+| Star Wars Racer Fan Game 🎮 | OmniBot 🚗 |
 | :---: | :---: |
 | [![RacerGif](./Pictures/Final_Gif.gif)](https://github.com/AshishA26/StarWars-Episode-1-Racer-Fan-Game)  | [![OmniBotGif](./Pictures/ParallelPark.gif)](https://github.com/AshishA26/OmniBot) |
 
 <p align="center">
-    <strong>Lidar Scanner 3D</strong>
+    <strong>Lidar Scanner 3D 📷 </strong>
 </p>
 
 [![ScanGif](./Pictures/ScanningGif.gif)](https://github.com/AshishA26/LidarScanner3D)
