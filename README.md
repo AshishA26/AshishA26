@@ -5,7 +5,7 @@ Languages 📙:
 - HTML, CSS, JavaScript, Kotlin, C, C++, Python, Scratch, Java
 
 Computer skills 💻:
-- SolidWorks, Autodesk (Fusion 360, Maya, TinkerCAD), VS Code, Platform IO, Unreal Engine, Adobe (Photoshop, After Effects, Illustrator), MPLAB, Arduino, Processing, Fritzing, KiCad
+- SolidWorks, Autodesk (Fusion 360, Maya, TinkerCAD, Inventor), VS Code, Platform IO, Unreal Engine, Adobe (Photoshop, After Effects, Illustrator), MPLAB, Arduino, Processing, Fritzing, KiCad
 
 Here are some examples of the biggest projects that I have worked on (click on each of them to find out more):
 
