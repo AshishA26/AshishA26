@@ -1,5 +1,5 @@
 ### Hello everyone! 👋
-I am a developer interested in many different things related to embedded, game design and development, and 3D modelling.
+I am a developer interested in many different things related to circuits and electronics, 3D modelling, and game design and development.
 
 Languages 📙:
 - HTML, CSS, JavaScript, Kotlin, C, C++, Python, Scratch, Java
@@ -18,6 +18,10 @@ Here are some examples of the biggest projects that I have worked on (click on e
 </p>
 
 [![ScanGif](./Pictures/ScanningGif.gif)](https://github.com/AshishA26/LidarScanner3D)
+
+Currently working on:
+- Robotic Arm
+- Mini Quadcopter
 
 Checkout my repositories and pins below to see more about what I do!
 
