@@ -11,7 +11,7 @@ Here are some examples of the biggest projects that I have worked on (click on e
 
 | Robotic Arm 💪 | Claw Demo for Robotic Arm |
 | :---: | :---: |
-| [![RacerGif](./Pictures/Final_Gif.gif)](https://github.com/AshishA26/StarWars-Episode-1-Racer-Fan-Game)  | [![OmniBotGif](./Pictures/ParallelPark.gif)](https://github.com/AshishA26/OmniBot) |
+| [![RoboticArm](./Pictures/RobotArmPic5.jpg)](https://github.com/AshishA26/Robotic-Arm)  | [![ClawDemoGif](./Pictures/ClawDemo.gif)](https://github.com/AshishA26/Robotic-Arm) |
 | Star Wars Racer Fan Game UE4 🎮 | OmniBot 🚗 |
 | [![RacerGif](./Pictures/Final_Gif.gif)](https://github.com/AshishA26/StarWars-Episode-1-Racer-Fan-Game)  | [![OmniBotGif](./Pictures/ParallelPark.gif)](https://github.com/AshishA26/OmniBot) |
 
