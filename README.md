@@ -12,6 +12,8 @@ Here are some examples of the biggest projects that I have worked on (click on e
 | Robotic Arm 💪 | Claw Demo for Robotic Arm |
 | :---: | :---: |
 | [![RoboticArm](./Pictures/RobotArmPic5.jpg)](https://github.com/AshishA26/Robotic-Arm)  | [![ClawDemoGif](./Pictures/ClawDemo.gif)](https://github.com/AshishA26/Robotic-Arm) |
+| STM32 Lane Keeper 🚘 | Mini Copter 🚁 |
+| [![LaneKeeper](./Pictures/LaneKeeperGif2.gif)](https://github.com/AshishA26/STM32-LaneKeeper)  | [![MiniCopter](./Pictures/CopterPic5.jpg)](https://github.com/AshishA26/MiniCopter) |
 | Star Wars Racer Fan Game UE4 🎮 | OmniBot 🚗 |
 | [![RacerGif](./Pictures/Final_Gif.gif)](https://github.com/AshishA26/StarWars-Episode-1-Racer-Fan-Game)  | [![OmniBotGif](./Pictures/ParallelPark.gif)](https://github.com/AshishA26/OmniBot) |
 
