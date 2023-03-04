@@ -1,5 +1,5 @@
 ### Hello everyone! 👋
-I am a developer interested in many different things related to circuits and electronics, 3D modelling, and game design and development.
+I am a developer interested in many different things related to robotics, circuits and electronics, and game design and development. 
 
 Languages 📙:
 - HTML, CSS, JavaScript, Kotlin, C, C++, Python, Scratch, Java
