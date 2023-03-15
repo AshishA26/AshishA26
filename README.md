@@ -9,9 +9,9 @@ Computer skills 💻:
 
 Here are some examples of the biggest projects that I have worked on (click on each of them to find out more):
 
-| Robotic Arm 💪 | Claw Demo for Robotic Arm |
+| Robotic Arm 💪 | Controlling the Robotic Arm Demo |
 | :---: | :---: |
-| [![RoboticArm](./Pictures/RobotArmPic0.jpg)](https://github.com/AshishA26/Robotic-Arm)  | [![ClawDemoGif](./Pictures/ClawDemo.gif)](https://github.com/AshishA26/Robotic-Arm) |
+| [![RoboticArm](./Pictures/RobotArmPic0.jpg)](https://github.com/AshishA26/Robotic-Arm)  | [![RoboticArmGif](./Pictures/RoboticArmGif.gif)](https://github.com/AshishA26/Robotic-Arm) |
 | STM32 Lane Keeper 🚘 | Mini Copter 🚁 |
 | [![LaneKeeper](./Pictures/LaneKeeperGif2.gif)](https://github.com/AshishA26/STM32-LaneKeeper)  | [![MiniCopter](./Pictures/CopterPic0.jpg)](https://github.com/AshishA26/MiniCopter) |
 | Star Wars Racer Fan Game UE4 🎮 | OmniBot 🚗 |
@@ -24,7 +24,6 @@ Here are some examples of the biggest projects that I have worked on (click on e
 [![ScanGif](./Pictures/ScanningGif.gif)](https://github.com/AshishA26/LidarScanner3D)
 
 Currently working on:
-- Robotic Arm
 - Mini Copter
 
 Checkout my repositories and pins below to see more about what I do!
