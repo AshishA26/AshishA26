@@ -14,7 +14,7 @@ Here are some examples of the biggest projects that I have worked on (click on e
 | [![MiniCopter](./Pictures/CopterPic11.jpg)](https://github.com/AshishA26/MiniCopter)  | [![MiniCopter](./Pictures/Thumbnail.png)](https://github.com/AshishA26/Jetboat-Racers) |
 | Robotic Arm 💪 | Controlling the Robotic Arm Demo |
 | [![RoboticArm](./Pictures/RobotArmPic0.jpg)](https://github.com/AshishA26/Robotic-Arm)  | [![RoboticArmGif](./Pictures/RoboticArmGif.gif)](https://github.com/AshishA26/Robotic-Arm) |
-| STM32 Lane Keeper 🚘 | Stair Climber |
+| STM32 Lane Keeper 🚘 | Stair Climber 🪜 |
 | [![LaneKeeper](./Pictures/LaneKeeperGif2.gif)](https://github.com/AshishA26/STM32-LaneKeeper)  | [![MiniCopter](./Pictures/Climb.gif)](https://github.com/AshishA26/Stair_Climber) |
 | Star Wars Racer Fan Game UE4 🎮 | OmniBot 🚗 |
 | [![RacerGif](./Pictures/Final_Gif.gif)](https://github.com/AshishA26/StarWars-Episode-1-Racer-Fan-Game)  | [![OmniBotGif](./Pictures/ParallelPark.gif)](https://github.com/AshishA26/OmniBot) |
