@@ -1,5 +1,11 @@
-### Hello everyone! 👋
-I am a developer interested in robotics, circuits and electronics, and game design and development. 
+### Hello there! 👋
+I am a 1B Mechatronics Engineering student at the University of Waterloo. I have a strong passion for **robotics**, **circuits and electronics**, and **game design and development**.
+
+I am an active member on the **Waterloo Aerial Robotics Group (WARG)**, a student design team at the forefront of autonomous drone technology.
+
+In the past, I have worked on a variety of projects ranging from videos games using **Unreal Engine**, to embedded projects using microcontrollers such as **Arduino**. Currently, I am working on Jetboat Racers, a multiplayer boat racing game with thrilling arcade physics.
+
+I am seeking a co-op (internship) for 4 months starting **May 2024**.
 
 Languages 📙:
 - C, C++, Python, HTML, CSS, JavaScript, Java
@@ -11,7 +17,6 @@ Tools 🛠️:
 - Git, KiCad, Oscilloscope
 - SolidWorks, Autodesk (Fusion 360, Maya, Inventor)
 - Adobe (Photoshop, After Effects, Illustrator, Substance 3D Painter), Unreal Engine
-
 
 Here are some examples of the biggest projects that I have worked on (click on each of them to find out more):
 
@@ -30,9 +35,6 @@ Here are some examples of the biggest projects that I have worked on (click on e
 </p>
 
 [![ScanGif](./Pictures/ScanningGif.gif)](https://github.com/AshishA26/LidarScanner3D)
-
-Currently working on:
-- Jetboat Racers
 
 Checkout my repositories and pins below to see more about what I do!
 
