@@ -1,11 +1,17 @@
 ### Hello everyone! 👋
-I am a developer interested in many different things related to robotics, circuits and electronics, and game design and development. 
+I am a developer interested in robotics, circuits and electronics, and game design and development. 
 
 Languages 📙:
-- HTML, CSS, JavaScript, Kotlin, C, C++, Python, Scratch, Java
+- C, C++, Python, HTML, CSS, JavaScript, Java
 
-Computer skills 💻:
-- SolidWorks, Autodesk (Fusion 360, Maya, Inventor), VS Code, Platform IO, Unreal Engine, Adobe (Photoshop, After Effects, Illustrator, Substance 3D Painter), Arduino, KiCad
+Frameworks 💻:
+- React Native, Firebase, Node.js, MongoDB, Arduino
+  
+Tools 🛠️:
+- Git, KiCad, Oscilloscope
+- SolidWorks, Autodesk (Fusion 360, Maya, Inventor)
+- Adobe (Photoshop, After Effects, Illustrator, Substance 3D Painter), Unreal Engine
+
 
 Here are some examples of the biggest projects that I have worked on (click on each of them to find out more):
 
