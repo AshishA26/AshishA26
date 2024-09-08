@@ -1,5 +1,5 @@
 ### Hello there! 👋
-I am a 1B Mechatronics Engineering student at the University of Waterloo. I have a strong passion for **robotics**, **circuits and electronics**, and **game design and development**.
+I am a 2A Mechatronics Engineering student at the University of Waterloo. I have a strong passion for **robotics**, **circuits and electronics**, and **game design and development**.
 
 I am an active member on the **[Waterloo Aerial Robotics Group (WARG)](https://www.uwarg.com/)**, a student design team at the forefront of autonomous drone technology.
 
