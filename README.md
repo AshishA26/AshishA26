@@ -1,7 +1,7 @@
 ### Hello there! 👋
 I am a 2A Mechatronics Engineering student at the University of Waterloo. I have a strong passion for **robotics**, **circuits and electronics**, and **game design and development**.
 
-I am an active member on the **[Waterloo Aerial Robotics Group (WARG)](https://www.uwarg.com/)**, a student design team at the forefront of autonomous drone technology.
+I am currently an Autonomy Project Manager on the **[Waterloo Aerial Robotics Group (WARG)](https://www.uwarg.com/)**, a student design team at the forefront of autonomous drone technology.
 
 In the past, I have worked on a variety of projects ranging from embedded projects using microcontrollers such as **Arduino**, to videos games using **Unreal Engine**. Currently, I am working on Jetboat Racers, a multiplayer boat racing game with thrilling arcade physics.
 
