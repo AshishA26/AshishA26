@@ -1,9 +1,9 @@
 ### Hello there! 👋
-I am a 2A Mechatronics Engineering student at the University of Waterloo. I have a strong passion for **robotics**, **circuits and electronics**, and **game design and development**.
+I am a 3A Mechatronics Engineering student at the University of Waterloo. I have a strong passion for **robotics**, **circuits and electronics**, and **computer vision**.
 
-I am currently an Autonomy Project Manager on the **[Waterloo Aerial Robotics Group (WARG)](https://www.uwarg.com/)**, a student design team at the forefront of autonomous drone technology.
+In the past, I have been the Autonomy Project Manager on the [Waterloo Aerial Robotics Group (WARG)](https://www.uwarg.com/), a student design team at the forefront of autonomous drone technology.
 
-In the past, I have worked on a variety of projects ranging from embedded projects using microcontrollers such as **Arduino**, to videos games using **Unreal Engine**.
+I have worked on a variety of projects ranging from embedded projects using microcontrollers such as **STM32**, to videos games using **Unreal Engine**.
 
 Here are some examples of the biggest projects that I have worked on (click on each of them to find out more):
 
