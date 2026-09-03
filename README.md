@@ -1,7 +1,7 @@
 ### Hello there! 👋
 I am a 3B Mechatronics Engineering student at the University of Waterloo. I have a strong passion for **robotics**, **circuits and electronics**, and **computer vision**.
 
-Currently, I am the Perception Team Lead for the Autonomous Vehicles team (EVE) on [WATonomous](https://github.com/WATonomous), a student design team at the forefront of autonomous robotics technology. In the past, I have been the Autonomy Project Manager on the [Waterloo Aerial Robotics Group (WARG)](https://github.com/UWARG), working on making drones self-flying.
+Currently, I am the Perception Team Lead for the Autonomous Vehicle (EVE) on [WATonomous](https://github.com/WATonomous), a student design team at the forefront of autonomous robotics technology. In the past, I have been the Autonomy Project Manager on the [Waterloo Aerial Robotics Group (WARG)](https://github.com/UWARG), working on making drones self-flying.
 
 I have worked on a variety of projects ranging from robots using compute boards such as NVIDIA Jetsons, to embedded firmware projects using STM32s. I have also developed videos games using Unreal Engine and web applications using React.
 
