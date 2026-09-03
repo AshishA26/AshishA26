@@ -1,17 +1,17 @@
 ### Hello there! 👋
-I am a 3A Mechatronics Engineering student at the University of Waterloo. I have a strong passion for **robotics**, **circuits and electronics**, and **computer vision**.
+I am a 3B Mechatronics Engineering student at the University of Waterloo. I have a strong passion for **robotics**, **circuits and electronics**, and **computer vision**.
 
-In the past, I have been the Autonomy Project Manager on the [Waterloo Aerial Robotics Group (WARG)](https://www.uwarg.com/), a student design team at the forefront of autonomous drone technology.
+Currently, I am the Perception Team Lead for the Autonomous Vehicles team (EVE) on [WATonomous](https://github.com/WATonomous), a student design team at the forefront of autonomous robotics technology. In the past, I have been the Autonomy Project Manager on the [Waterloo Aerial Robotics Group (WARG)](https://github.com/UWARG), working on making drones self-flying.
 
-I have worked on a variety of projects ranging from embedded projects using microcontrollers such as **STM32**, to videos games using **Unreal Engine**.
+I have worked on a variety of projects ranging from robots using compute boards such as NVIDIA Jetsons, to embedded firmware projects using STM32s. I have also developed videos games using Unreal Engine and web applications using React.
 
 Here are some examples of the biggest projects that I have worked on (click on each of them to find out more):
 
-| Mini Copter 🚁 | Jetboat Racers 🏁 |
+| Orion 🐕 | Jetboat Racers 🏁 |
 | :---: | :---: |
-| [![MiniCopter](./Pictures/CopterPic11.jpg)](https://github.com/AshishA26/MiniCopter)  | [![MiniCopter](./Pictures/Thumbnail.png)](https://github.com/AshishA26/Jetboat-Racers) |
-| Robotic Arm 💪 | Controlling the Robotic Arm Demo |
-| [![RoboticArm](./Pictures/RobotArmPic0.jpg)](https://github.com/AshishA26/Robotic-Arm)  | [![RoboticArmGif](./Pictures/RoboticArmGif.gif)](https://github.com/AshishA26/Robotic-Arm) |
+| [![Orion](./Pictures/Orion_Thumbnail.png)](https://github.com/AshishA26/Orion-Quadruped)  | [![Jetboat Racers](./Pictures/Thumbnail.png)](https://github.com/AshishA26/Jetboat-Racers) |
+| Mini Copter 🚁 | Robotic Arm 💪 |
+| [![MiniCopter](./Pictures/CopterPic11.jpg)](https://github.com/AshishA26/MiniCopter)  | [![RoboticArmGif](./Pictures/RoboticArmGif.gif)](https://github.com/AshishA26/Robotic-Arm) |
 | STM32 Lane Keeper 🚘 | Stair Climber 🪜 |
 | [![LaneKeeper](./Pictures/LaneKeeperGif2.gif)](https://github.com/AshishA26/STM32-LaneKeeper)  | [![MiniCopter](./Pictures/Climb.gif)](https://github.com/AshishA26/Stair_Climber) |
 | Star Wars Racer Fan Game UE4 🎮 | OmniBot 🚗 |
